@@ -1,0 +1,820 @@
+Use of the encoding pragma is deprecated at /usr/lib/sphinxtrain/scripts/decode/word_align.pl line 14.
+à¸¨à¸¹à¸à¸¢à¹  (tester-FILE_1)
+à¸¨à¸¹à¸à¸¢à¹  (tester-FILE_1)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸«à¸à¸¶à¹à¸  (tester-FILE_2)
+à¸ªà¸­à¸        (tester-FILE_2)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸ªà¸­à¸  (tester-FILE_3)
+à¸ªà¸­à¸  (tester-FILE_3)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸ªà¸²à¸¡     (tester-FILE_4)
+à¹à¸à¹à¸²  (tester-FILE_4)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸ªà¸µà¹  (tester-FILE_5)
+à¸ªà¸µà¹  (tester-FILE_5)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸«à¹à¸²  (tester-FILE_6)
+à¸«à¹à¸²  (tester-FILE_6)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸«à¸  (tester-FILE_7)
+à¸à¸¸  (tester-FILE_7)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸à¹à¸  (tester-FILE_8)
+à¹à¸à¹à¸  (tester-FILE_8)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¹à¸à¸  (tester-FILE_9)
+à¸à¸¸     (tester-FILE_9)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸à¹à¸²  (tester-FILE_10)
+à¹à¸à¹à¸²  (tester-FILE_10)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸­à¸±à¸¥à¸à¹à¸²  (tester-FILE_11)
+à¸­à¸±à¸¥à¸à¹à¸²  (tester-FILE_11)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸£à¸²à¹à¸§à¹  (tester-FILE_12)
+à¸à¸£à¸²à¹à¸§à¹  (tester-FILE_12)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸²à¸£à¹à¸¥à¸µ  (tester-FILE_13)
+à¸à¸²à¸£à¹à¸¥à¸µ  (tester-FILE_13)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¹à¸à¸¥à¸à¹à¸²  (tester-FILE_14)
+à¹à¸à¸¥à¸à¹à¸²  (tester-FILE_14)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¹à¸­à¸à¹à¸  (tester-FILE_15)
+à¹à¸­à¸à¹à¸  (tester-FILE_15)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸­à¸à¸à¹à¸à¸£à¸­à¸  (tester-FILE_16)
+à¹à¸à¹à¹à¸              (tester-FILE_16)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸à¸­à¸¥à¹à¸        (tester-FILE_17)
+à¸¡à¸´à¸ªà¸à¸´à¹à¸  (tester-FILE_17)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸à¸²à¸§à¸à¹  (tester-FILE_18)
+à¸à¸²à¸§à¸à¹  (tester-FILE_18)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¹à¸¡à¹à¸à¸¸  (tester-FILE_19)
+à¹à¸¡à¹à¸à¸¸  (tester-FILE_19)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸¸     (tester-FILE_20)
+à¸ªà¸µà¹  (tester-FILE_20)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸à¸£à¸µà¹à¸ªà¹  (tester-FILE_21)
+à¹à¸à¸£à¸µà¹à¸ªà¹  (tester-FILE_21)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸­à¸¸à¸à¹à¸¥à¹à¸§à¸à¸¸  (tester-FILE_22)
+à¸­à¸¸à¸à¹à¸¥à¹à¸§à¸à¸¸  (tester-FILE_22)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸­à¸¸à¸  (tester-FILE_23)
+à¸­à¸¸à¸  (tester-FILE_23)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸¡à¸´à¸ªà¸à¸´à¹à¸  (tester-FILE_24)
+à¸¡à¸´à¸ªà¸à¸´à¹à¸  (tester-FILE_24)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸µà¸¥à¹à¸¥à¸à¸à¹  (tester-FILE_25)
+à¸à¸µà¸¥à¹à¸¥à¸à¸à¹  (tester-FILE_25)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸£à¸²à¸§à¸à¹  (tester-FILE_26)
+à¸à¸£à¸²à¸§à¸à¹  (tester-FILE_26)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸£à¸­à¸  (tester-FILE_27)
+à¸ªà¸­à¸     (tester-FILE_27)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸à¸£à¸­à¸à¸à¸±à¸  (tester-FILE_28)
+à¸à¸£à¸­à¸à¸à¸±à¸  (tester-FILE_28)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸¢à¸±à¸à¹à¸¡à¹à¸à¸¶à¹à¸  (tester-FILE_29)
+à¸¢à¸±à¸à¹à¸¡à¹à¸à¸¶à¹à¸  (tester-FILE_29)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¹à¸£à¸´à¹à¸¡  (tester-FILE_30)
+à¸à¸£à¸­à¸     (tester-FILE_30)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸à¹à¹à¸  (tester-FILE_31)
+à¹à¸à¹à¹à¸  (tester-FILE_31)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸¥à¸±à¸  (tester-FILE_32)
+à¸à¸¥à¸±à¸  (tester-FILE_32)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¹à¸ªà¸£à¹à¸  (tester-FILE_33)
+à¹à¸ªà¸£à¹à¸  (tester-FILE_33)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸µà¸«à¸¡à¸  (tester-FILE_34)
+à¸à¸µà¸«à¸¡à¸  (tester-FILE_34)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸¨à¸¹à¸à¸¢à¹  (tester_1-FILE_1)
+à¸¨à¸¹à¸à¸¢à¹  (tester_1-FILE_1)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸«à¸à¸¶à¹à¸  (tester_1-FILE_2)
+à¸ªà¸µà¹        (tester_1-FILE_2)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸ªà¸­à¸  (tester_1-FILE_3)
+à¸ªà¸­à¸  (tester_1-FILE_3)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸ªà¸²à¸¡        (tester_1-FILE_4)
+à¸à¸­à¸¥à¹à¸  (tester_1-FILE_4)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸ªà¸µà¹  (tester_1-FILE_5)
+à¸ªà¸µà¹  (tester_1-FILE_5)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸«à¹à¸²  (tester_1-FILE_6)
+à¸«à¹à¸²  (tester_1-FILE_6)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸«à¸           (tester_1-FILE_7)
+à¹à¸ªà¸£à¹à¸  (tester_1-FILE_7)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸à¹à¸     (tester_1-FILE_8)
+à¹à¸ªà¸£à¹à¸  (tester_1-FILE_8)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸à¸  (tester_1-FILE_9)
+à¸à¸¸     (tester_1-FILE_9)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸à¹à¸²  (tester_1-FILE_10)
+à¹à¸à¹à¸²  (tester_1-FILE_10)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸­à¸±à¸¥à¸à¹à¸²  (tester_1-FILE_11)
+à¸­à¸±à¸¥à¸à¹à¸²  (tester_1-FILE_11)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸£à¸²à¹à¸§à¹  (tester_1-FILE_12)
+à¸à¸£à¸²à¹à¸§à¹  (tester_1-FILE_12)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸²à¸£à¹à¸¥à¸µ  (tester_1-FILE_13)
+à¸à¸²à¸£à¹à¸¥à¸µ  (tester_1-FILE_13)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¹à¸à¸¥à¸à¹à¸²  (tester_1-FILE_14)
+à¹à¸à¸¥à¸à¹à¸²  (tester_1-FILE_14)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¹à¸­à¸à¹à¸  (tester_1-FILE_15)
+à¹à¸­à¸à¹à¸  (tester_1-FILE_15)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸­à¸à¸à¹à¸à¸£à¸­à¸  (tester_1-FILE_16)
+à¹à¸à¹à¹à¸              (tester_1-FILE_16)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸à¸­à¸¥à¹à¸  (tester_1-FILE_17)
+à¸ªà¸­à¸        (tester_1-FILE_17)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸à¸²à¸§à¸à¹     (tester_1-FILE_18)
+à¸à¸£à¸²à¸§à¸à¹  (tester_1-FILE_18)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸¡à¹à¸à¸¸  (tester_1-FILE_19)
+à¹à¸¡à¹à¸à¸¸  (tester_1-FILE_19)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸¸  (tester_1-FILE_20)
+à¸à¸¸  (tester_1-FILE_20)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¹à¸à¸£à¸µà¹à¸ªà¹  (tester_1-FILE_21)
+à¸à¸²à¸£à¹à¸¥à¸µ     (tester_1-FILE_21)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸­à¸¸à¸à¹à¸¥à¹à¸§à¸à¸¸  (tester_1-FILE_22)
+à¸­à¸¸à¸à¹à¸¥à¹à¸§à¸à¸¸  (tester_1-FILE_22)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸­à¸¸à¸  (tester_1-FILE_23)
+à¸­à¸¸à¸  (tester_1-FILE_23)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸¡à¸´à¸ªà¸à¸´à¹à¸  (tester_1-FILE_24)
+à¸¡à¸´à¸ªà¸à¸´à¹à¸  (tester_1-FILE_24)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸µà¸¥à¹à¸¥à¸à¸à¹  (tester_1-FILE_25)
+à¸à¸µà¸¥à¹à¸¥à¸à¸à¹  (tester_1-FILE_25)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸£à¸²à¸§à¸à¹  (tester_1-FILE_26)
+à¸à¸£à¸²à¸§à¸à¹  (tester_1-FILE_26)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸£à¸­à¸  (tester_1-FILE_27)
+à¸à¸£à¸­à¸  (tester_1-FILE_27)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸£à¸­à¸à¸à¸±à¸  (tester_1-FILE_28)
+à¸à¸£à¸­à¸à¸à¸±à¸  (tester_1-FILE_28)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸¢à¸±à¸à¹à¸¡à¹à¸à¸¶à¹à¸  (tester_1-FILE_29)
+à¸¢à¸±à¸à¹à¸¡à¹à¸à¸¶à¹à¸  (tester_1-FILE_29)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¹à¸£à¸´à¹à¸¡  (tester_1-FILE_30)
+à¸ªà¸²à¸¡        (tester_1-FILE_30)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸à¹à¹à¸  (tester_1-FILE_31)
+à¹à¸à¹à¹à¸  (tester_1-FILE_31)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸¥à¸±à¸  (tester_1-FILE_32)
+à¸à¸£à¸­à¸  (tester_1-FILE_32)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸ªà¸£à¹à¸  (tester_1-FILE_33)
+à¹à¸ªà¸£à¹à¸  (tester_1-FILE_33)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸µà¸«à¸¡à¸  (tester_1-FILE_34)
+à¸à¸µà¸«à¸¡à¸  (tester_1-FILE_34)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸¨à¸¹à¸à¸¢à¹  (tester_2-FILE_1)
+à¸¨à¸¹à¸à¸¢à¹  (tester_2-FILE_1)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸«à¸à¸¶à¹à¸     (tester_2-FILE_2)
+à¸à¸£à¸²à¸§à¸à¹  (tester_2-FILE_2)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸ªà¸­à¸  (tester_2-FILE_3)
+à¸ªà¸­à¸  (tester_2-FILE_3)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸ªà¸²à¸¡        (tester_2-FILE_4)
+à¸à¸²à¸§à¸à¹  (tester_2-FILE_4)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸ªà¸µà¹  (tester_2-FILE_5)
+à¸ªà¸­à¸  (tester_2-FILE_5)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸«à¹à¸²  (tester_2-FILE_6)
+à¸«à¹à¸²  (tester_2-FILE_6)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸«à¸        (tester_2-FILE_7)
+à¸à¸£à¸­à¸  (tester_2-FILE_7)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸à¹à¸  (tester_2-FILE_8)
+à¸ªà¸²à¸¡     (tester_2-FILE_8)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸à¸  (tester_2-FILE_9)
+à¸ªà¸²à¸¡  (tester_2-FILE_9)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸à¹à¸²  (tester_2-FILE_10)
+à¹à¸à¹à¸²  (tester_2-FILE_10)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸­à¸±à¸¥à¸à¹à¸²  (tester_2-FILE_11)
+à¸­à¸±à¸¥à¸à¹à¸²  (tester_2-FILE_11)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸£à¸²à¹à¸§à¹  (tester_2-FILE_12)
+à¸à¸£à¸²à¹à¸§à¹  (tester_2-FILE_12)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸²à¸£à¹à¸¥à¸µ  (tester_2-FILE_13)
+à¸ªà¸²à¸¡           (tester_2-FILE_13)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸à¸¥à¸à¹à¸²  (tester_2-FILE_14)
+à¹à¸à¸¥à¸à¹à¸²  (tester_2-FILE_14)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¹à¸­à¸à¹à¸  (tester_2-FILE_15)
+à¹à¸­à¸à¹à¸  (tester_2-FILE_15)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸­à¸à¸à¹à¸à¸£à¸­à¸  (tester_2-FILE_16)
+à¹à¸à¹à¹à¸              (tester_2-FILE_16)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸à¸­à¸¥à¹à¸  (tester_2-FILE_17)
+à¸à¸£à¸­à¸     (tester_2-FILE_17)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸à¸²à¸§à¸à¹  (tester_2-FILE_18)
+à¸à¸²à¸§à¸à¹  (tester_2-FILE_18)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¹à¸¡à¹à¸à¸¸  (tester_2-FILE_19)
+à¹à¸¡à¹à¸à¸¸  (tester_2-FILE_19)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸¸  (tester_2-FILE_20)
+à¸à¸¸  (tester_2-FILE_20)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¹à¸à¸£à¸µà¹à¸ªà¹  (tester_2-FILE_21)
+à¹à¸à¸£à¸µà¹à¸ªà¹  (tester_2-FILE_21)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸­à¸¸à¸à¹à¸¥à¹à¸§à¸à¸¸  (tester_2-FILE_22)
+à¸­à¸¸à¸à¹à¸¥à¹à¸§à¸à¸¸  (tester_2-FILE_22)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸­à¸¸à¸  (tester_2-FILE_23)
+à¸­à¸¸à¸  (tester_2-FILE_23)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***       à¸¡à¸´à¸ªà¸à¸´à¹à¸  (tester_2-FILE_24)
+à¸ªà¸²à¸¡ à¸ªà¸µà¹              (tester_2-FILE_24)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+à¸à¸µà¸¥à¹à¸¥à¸à¸à¹  (tester_2-FILE_25)
+à¸à¸µà¸¥à¹à¸¥à¸à¸à¹  (tester_2-FILE_25)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸£à¸²à¸§à¸à¹  (tester_2-FILE_26)
+à¸à¸£à¸²à¸§à¸à¹  (tester_2-FILE_26)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸£à¸­à¸  (tester_2-FILE_27)
+à¸à¸£à¸­à¸  (tester_2-FILE_27)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸£à¸­à¸à¸à¸±à¸  (tester_2-FILE_28)
+à¸à¸£à¸­à¸à¸à¸±à¸  (tester_2-FILE_28)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸¢à¸±à¸à¹à¸¡à¹à¸à¸¶à¹à¸  (tester_2-FILE_29)
+à¸¢à¸±à¸à¹à¸¡à¹à¸à¸¶à¹à¸  (tester_2-FILE_29)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¹à¸£à¸´à¹à¸¡  (tester_2-FILE_30)
+à¸à¸£à¸­à¸     (tester_2-FILE_30)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸à¹à¹à¸        (tester_2-FILE_31)
+à¸à¸£à¸­à¸à¸à¸±à¸  (tester_2-FILE_31)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸à¸¥à¸±à¸  (tester_2-FILE_32)
+à¸à¸¥à¸±à¸  (tester_2-FILE_32)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¹à¸ªà¸£à¹à¸  (tester_2-FILE_33)
+à¹à¸ªà¸£à¹à¸  (tester_2-FILE_33)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸µà¸«à¸¡à¸  (tester_2-FILE_34)
+à¸à¸µà¸«à¸¡à¸  (tester_2-FILE_34)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸¨à¸¹à¸à¸¢à¹  (tester_3-FILE_1)
+à¸¨à¸¹à¸à¸¢à¹  (tester_3-FILE_1)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸«à¸à¸¶à¹à¸  (tester_3-FILE_2)
+à¸ªà¸µà¹        (tester_3-FILE_2)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸ªà¸­à¸  (tester_3-FILE_3)
+à¸ªà¸­à¸  (tester_3-FILE_3)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸ªà¸²à¸¡  (tester_3-FILE_4)
+à¸ªà¸²à¸¡  (tester_3-FILE_4)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸ªà¸µà¹  (tester_3-FILE_5)
+à¸ªà¸µà¹  (tester_3-FILE_5)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸«à¹à¸²  (tester_3-FILE_6)
+à¸«à¹à¸²  (tester_3-FILE_6)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸«à¸  (tester_3-FILE_7)
+à¸à¸¸  (tester_3-FILE_7)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸à¹à¸     (tester_3-FILE_8)
+à¹à¸ªà¸£à¹à¸  (tester_3-FILE_8)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸à¸        (tester_3-FILE_9)
+à¸à¸²à¸§à¸à¹  (tester_3-FILE_9)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸à¹à¸²        (tester_3-FILE_10)
+à¸à¸£à¸²à¸§à¸à¹  (tester_3-FILE_10)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***             à¸­à¸±à¸¥à¸à¹à¸²  (tester_3-FILE_11)
+à¹à¸£à¸´à¹à¸¡ à¸à¸²à¸§à¸à¹     (tester_3-FILE_11)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+à¸à¸£à¸²à¹à¸§à¹  (tester_3-FILE_12)
+à¸à¸£à¸²à¹à¸§à¹  (tester_3-FILE_12)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸²à¸£à¹à¸¥à¸µ  (tester_3-FILE_13)
+à¸à¸²à¸£à¹à¸¥à¸µ  (tester_3-FILE_13)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***          à¹à¸à¸¥à¸à¹à¸²  (tester_3-FILE_14)
+à¹à¸à¹à¸ à¹à¸à¸¥à¸à¹à¸²  (tester_3-FILE_14)
+Words: 1 Correct: 1 Errors: 1 Percent correct = 100.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+à¹à¸­à¸à¹à¸  (tester_3-FILE_15)
+à¹à¸­à¸à¹à¸  (tester_3-FILE_15)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸­à¸à¸à¹à¸à¸£à¸­à¸  (tester_3-FILE_16)
+à¸à¸£à¸­à¸à¸à¸±à¸        (tester_3-FILE_16)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸à¸­à¸¥à¹à¸  (tester_3-FILE_17)
+à¸à¸£à¸­à¸     (tester_3-FILE_17)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸à¸²à¸§à¸à¹     (tester_3-FILE_18)
+à¸à¸£à¸²à¸§à¸à¹  (tester_3-FILE_18)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸¡à¹à¸à¸¸  (tester_3-FILE_19)
+à¹à¸¡à¹à¸à¸¸  (tester_3-FILE_19)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸¸           (tester_3-FILE_20)
+à¸¨à¸¹à¸à¸¢à¹  (tester_3-FILE_20)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***          à¹à¸à¸£à¸µà¹à¸ªà¹  (tester_3-FILE_21)
+à¸à¸¥à¸±à¸ à¹à¸à¸£à¸µà¹à¸ªà¹  (tester_3-FILE_21)
+Words: 1 Correct: 1 Errors: 1 Percent correct = 100.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+à¸­à¸¸à¸à¹à¸¥à¹à¸§à¸à¸¸  (tester_3-FILE_22)
+à¸­à¸¸à¸à¹à¸¥à¹à¸§à¸à¸¸  (tester_3-FILE_22)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸­à¸¸à¸        (tester_3-FILE_23)
+à¸¨à¸¹à¸à¸¢à¹  (tester_3-FILE_23)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸¡à¸´à¸ªà¸à¸´à¹à¸  (tester_3-FILE_24)
+à¸¡à¸´à¸ªà¸à¸´à¹à¸  (tester_3-FILE_24)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸µà¸¥à¹à¸¥à¸à¸à¹  (tester_3-FILE_25)
+à¸à¸µà¸¥à¹à¸¥à¸à¸à¹  (tester_3-FILE_25)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸£à¸²à¸§à¸à¹  (tester_3-FILE_26)
+à¸à¸²à¸§à¸à¹     (tester_3-FILE_26)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸à¸£à¸­à¸  (tester_3-FILE_27)
+à¸«à¹à¸²     (tester_3-FILE_27)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸à¸£à¸­à¸à¸à¸±à¸  (tester_3-FILE_28)
+à¸à¸£à¸­à¸à¸à¸±à¸  (tester_3-FILE_28)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸¢à¸±à¸à¹à¸¡à¹à¸à¸¶à¹à¸  (tester_3-FILE_29)
+à¸¢à¸±à¸à¹à¸¡à¹à¸à¸¶à¹à¸  (tester_3-FILE_29)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¹à¸£à¸´à¹à¸¡  (tester_3-FILE_30)
+à¹à¸£à¸´à¹à¸¡  (tester_3-FILE_30)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¹à¸à¹à¹à¸  (tester_3-FILE_31)
+à¹à¸à¹à¹à¸  (tester_3-FILE_31)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸¥à¸±à¸  (tester_3-FILE_32)
+à¸à¸¥à¸±à¸  (tester_3-FILE_32)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¹à¸ªà¸£à¹à¸  (tester_3-FILE_33)
+à¹à¸ªà¸£à¹à¸  (tester_3-FILE_33)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸µà¸«à¸¡à¸  (tester_3-FILE_34)
+à¸à¸µà¸«à¸¡à¸  (tester_3-FILE_34)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸¨à¸¹à¸à¸¢à¹  (tester_4-FILE_1)
+à¸¨à¸¹à¸à¸¢à¹  (tester_4-FILE_1)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸«à¸à¸¶à¹à¸  (tester_4-FILE_2)
+à¸«à¸à¸¶à¹à¸  (tester_4-FILE_2)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸ªà¸­à¸  (tester_4-FILE_3)
+à¸ªà¸­à¸  (tester_4-FILE_3)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸ªà¸²à¸¡     (tester_4-FILE_4)
+à¹à¸à¹à¸²  (tester_4-FILE_4)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸ªà¸µà¹  (tester_4-FILE_5)
+à¸ªà¸µà¹  (tester_4-FILE_5)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸«à¹à¸²  (tester_4-FILE_6)
+à¸«à¹à¸²  (tester_4-FILE_6)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸«à¸  (tester_4-FILE_7)
+à¸à¸¸  (tester_4-FILE_7)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸à¹à¸     (tester_4-FILE_8)
+à¹à¸ªà¸£à¹à¸  (tester_4-FILE_8)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸à¸     (tester_4-FILE_9)
+à¸à¸¥à¸±à¸  (tester_4-FILE_9)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸à¹à¸²  (tester_4-FILE_10)
+à¹à¸à¹à¸²  (tester_4-FILE_10)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸­à¸±à¸¥à¸à¹à¸²  (tester_4-FILE_11)
+à¸­à¸±à¸¥à¸à¹à¸²  (tester_4-FILE_11)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸£à¸²à¹à¸§à¹  (tester_4-FILE_12)
+à¸à¸£à¸²à¹à¸§à¹  (tester_4-FILE_12)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸²à¸£à¹à¸¥à¸µ  (tester_4-FILE_13)
+à¸à¸²à¸£à¹à¸¥à¸µ  (tester_4-FILE_13)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¹à¸à¸¥à¸à¹à¸²  (tester_4-FILE_14)
+à¹à¸à¸¥à¸à¹à¸²  (tester_4-FILE_14)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¹à¸­à¸à¹à¸  (tester_4-FILE_15)
+à¹à¸­à¸à¹à¸  (tester_4-FILE_15)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***       à¸à¸­à¸à¸à¹à¸à¸£à¸­à¸  (tester_4-FILE_16)
+à¸ªà¸­à¸ à¸à¸£à¸­à¸                 (tester_4-FILE_16)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+à¸à¸­à¸¥à¹à¸  (tester_4-FILE_17)
+à¸à¸£à¸­à¸     (tester_4-FILE_17)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸à¸²à¸§à¸à¹     (tester_4-FILE_18)
+à¸à¸£à¸²à¸§à¸à¹  (tester_4-FILE_18)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸¡à¹à¸à¸¸  (tester_4-FILE_19)
+à¹à¸¡à¹à¸à¸¸  (tester_4-FILE_19)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸¸  (tester_4-FILE_20)
+à¸à¸¸  (tester_4-FILE_20)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¹à¸à¸£à¸µà¹à¸ªà¹  (tester_4-FILE_21)
+à¹à¸à¸£à¸µà¹à¸ªà¹  (tester_4-FILE_21)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸­à¸¸à¸à¹à¸¥à¹à¸§à¸à¸¸  (tester_4-FILE_22)
+à¸­à¸¸à¸à¹à¸¥à¹à¸§à¸à¸¸  (tester_4-FILE_22)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸­à¸¸à¸  (tester_4-FILE_23)
+à¸­à¸¸à¸  (tester_4-FILE_23)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸¡à¸´à¸ªà¸à¸´à¹à¸  (tester_4-FILE_24)
+à¸¡à¸´à¸ªà¸à¸´à¹à¸  (tester_4-FILE_24)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸µà¸¥à¹à¸¥à¸à¸à¹  (tester_4-FILE_25)
+à¸à¸µà¸¥à¹à¸¥à¸à¸à¹  (tester_4-FILE_25)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸£à¸²à¸§à¸à¹  (tester_4-FILE_26)
+à¸à¸£à¸²à¹à¸§à¹  (tester_4-FILE_26)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸à¸£à¸­à¸  (tester_4-FILE_27)
+à¸à¸£à¸­à¸  (tester_4-FILE_27)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸£à¸­à¸à¸à¸±à¸  (tester_4-FILE_28)
+à¸à¸£à¸­à¸à¸à¸±à¸  (tester_4-FILE_28)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸¢à¸±à¸à¹à¸¡à¹à¸à¸¶à¹à¸  (tester_4-FILE_29)
+à¸¢à¸±à¸à¹à¸¡à¹à¸à¸¶à¹à¸  (tester_4-FILE_29)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¹à¸£à¸´à¹à¸¡  (tester_4-FILE_30)
+à¸à¸£à¸­à¸     (tester_4-FILE_30)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸à¹à¹à¸  (tester_4-FILE_31)
+à¹à¸à¹à¹à¸  (tester_4-FILE_31)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸¥à¸±à¸  (tester_4-FILE_32)
+à¸à¸¥à¸±à¸  (tester_4-FILE_32)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¹à¸ªà¸£à¹à¸  (tester_4-FILE_33)
+à¹à¸ªà¸£à¹à¸  (tester_4-FILE_33)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸µà¸«à¸¡à¸  (tester_4-FILE_34)
+à¸à¸µà¸«à¸¡à¸  (tester_4-FILE_34)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸¨à¸¹à¸à¸¢à¹  (tester_5-FILE_1)
+à¸¨à¸¹à¸à¸¢à¹  (tester_5-FILE_1)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸«à¸à¸¶à¹à¸  (tester_5-FILE_2)
+à¸ªà¸­à¸        (tester_5-FILE_2)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸ªà¸­à¸  (tester_5-FILE_3)
+à¸ªà¸­à¸  (tester_5-FILE_3)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸ªà¸²à¸¡           (tester_5-FILE_4)
+à¸à¸£à¸²à¸§à¸à¹  (tester_5-FILE_4)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸ªà¸µà¹  (tester_5-FILE_5)
+à¸ªà¸µà¹  (tester_5-FILE_5)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸«à¹à¸²  (tester_5-FILE_6)
+à¸«à¹à¸²  (tester_5-FILE_6)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸«à¸  (tester_5-FILE_7)
+à¸à¸¸  (tester_5-FILE_7)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸à¹à¸     (tester_5-FILE_8)
+à¹à¸ªà¸£à¹à¸  (tester_5-FILE_8)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸à¸  (tester_5-FILE_9)
+à¸«à¹à¸²  (tester_5-FILE_9)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸à¹à¸²        (tester_5-FILE_10)
+à¸à¸£à¸²à¸§à¸à¹  (tester_5-FILE_10)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸­à¸±à¸¥à¸à¹à¸²     (tester_5-FILE_11)
+à¸à¸£à¸­à¸à¸à¸±à¸  (tester_5-FILE_11)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸à¸£à¸²à¹à¸§à¹  (tester_5-FILE_12)
+à¸à¸£à¸²à¹à¸§à¹  (tester_5-FILE_12)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸²à¸£à¹à¸¥à¸µ  (tester_5-FILE_13)
+à¸à¸²à¸£à¹à¸¥à¸µ  (tester_5-FILE_13)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¹à¸à¸¥à¸à¹à¸²  (tester_5-FILE_14)
+à¹à¸à¸¥à¸à¹à¸²  (tester_5-FILE_14)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¹à¸­à¸à¹à¸  (tester_5-FILE_15)
+à¹à¸­à¸à¹à¸  (tester_5-FILE_15)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***          à¸à¸­à¸à¸à¹à¸à¸£à¸­à¸  (tester_5-FILE_16)
+à¸à¸£à¸­à¸ à¸«à¹à¸²                    (tester_5-FILE_16)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+à¸à¸­à¸¥à¹à¸  (tester_5-FILE_17)
+à¸à¸£à¸­à¸     (tester_5-FILE_17)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¸à¸²à¸§à¸à¹     (tester_5-FILE_18)
+à¸à¸£à¸²à¸§à¸à¹  (tester_5-FILE_18)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸¡à¹à¸à¸¸  (tester_5-FILE_19)
+à¹à¸¡à¹à¸à¸¸  (tester_5-FILE_19)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸¸  (tester_5-FILE_20)
+à¸à¸¸  (tester_5-FILE_20)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¹à¸à¸£à¸µà¹à¸ªà¹  (tester_5-FILE_21)
+à¹à¸à¸£à¸µà¹à¸ªà¹  (tester_5-FILE_21)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸­à¸¸à¸à¹à¸¥à¹à¸§à¸à¸¸  (tester_5-FILE_22)
+à¸­à¸¸à¸à¹à¸¥à¹à¸§à¸à¸¸  (tester_5-FILE_22)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸­à¸¸à¸  (tester_5-FILE_23)
+à¸­à¸¸à¸  (tester_5-FILE_23)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸¡à¸´à¸ªà¸à¸´à¹à¸  (tester_5-FILE_24)
+à¸¡à¸´à¸ªà¸à¸´à¹à¸  (tester_5-FILE_24)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸µà¸¥à¹à¸¥à¸à¸à¹  (tester_5-FILE_25)
+à¸à¸µà¸¥à¹à¸¥à¸à¸à¹  (tester_5-FILE_25)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸£à¸²à¸§à¸à¹  (tester_5-FILE_26)
+à¸à¸£à¸²à¸§à¸à¹  (tester_5-FILE_26)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸£à¸­à¸  (tester_5-FILE_27)
+à¸à¸£à¸­à¸  (tester_5-FILE_27)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸£à¸­à¸à¸à¸±à¸  (tester_5-FILE_28)
+à¸à¸£à¸­à¸à¸à¸±à¸  (tester_5-FILE_28)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸¢à¸±à¸à¹à¸¡à¹à¸à¸¶à¹à¸  (tester_5-FILE_29)
+à¸¢à¸±à¸à¹à¸¡à¹à¸à¸¶à¹à¸  (tester_5-FILE_29)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¹à¸£à¸´à¹à¸¡  (tester_5-FILE_30)
+à¸ªà¸­à¸        (tester_5-FILE_30)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸à¹à¹à¸  (tester_5-FILE_31)
+à¹à¸à¹à¹à¸  (tester_5-FILE_31)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸¥à¸±à¸  (tester_5-FILE_32)
+à¸à¸£à¸­à¸  (tester_5-FILE_32)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+à¹à¸ªà¸£à¹à¸  (tester_5-FILE_33)
+à¹à¸ªà¸£à¹à¸  (tester_5-FILE_33)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+à¸à¸µà¸«à¸¡à¸  (tester_5-FILE_34)
+à¸à¸µà¸«à¸¡à¸  (tester_5-FILE_34)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+TOTAL Words: 204 Correct: 138 Errors: 72
+TOTAL Percent correct = 67.65% Error = 35.29% Accuracy = 64.71%
+TOTAL Insertions: 6 Deletions: 0 Substitutions: 66
